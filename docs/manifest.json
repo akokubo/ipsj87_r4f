@@ -1,5 +1,5 @@
 {
-  "name"              : "詐欺抵抗力診断R",
+  "name"              : "詐欺抵抗力診断",
   "short_name"        : "HAGA",
   "description"       : "詐欺抵抗力診断の改良版",
   "start_url"         : "./index.html?utm_source=homescreen",
