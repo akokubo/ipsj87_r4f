@@ -1,0 +1,30 @@
+{
+  "name"              : "詐欺抵抗力診断F",
+  "short_name"        : "HAGA",
+  "description"       : "詐欺抵抗力診断の改良版の八戸工業大学2024年学園祭バージョン",
+  "start_url"         : "./index.html?utm_source=homescreen",
+  "display"           : "standalone",
+  "background_color"  : "#faf8ee",
+  "theme_color"       : "#87b2ff",
+  "icons": [
+    {
+      "src"           : "./apple-touch-icon.png",
+      "sizes"         : "180x180",
+      "type"          : "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src"           : "./android-chrome-256x256.png",
+      "sizes"         : "256x256",
+      "type"          : "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src"           : "./icon-512x512.png",
+      "sizes"         : "512x512",
+      "type"          : "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
